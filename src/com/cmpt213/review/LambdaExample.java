@@ -16,7 +16,6 @@ public class LambdaExample {
 
 
     // Alternative to a lambda: Define a normal class which implements the same interface, or an anonymous class.
-    // No longer an anonymous class.
 
     public void alternativeToLambda() {
 
